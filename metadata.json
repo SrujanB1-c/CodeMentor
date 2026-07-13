@@ -1,0 +1,6 @@
+{
+  "name": "CodeMentor AI",
+  "description": "An interactive, expert software engineering mentor and programming instructor powered by Gemini. Get step-by-step code explanations, complexity analyses, data flow visualizers, bug detection, and interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
